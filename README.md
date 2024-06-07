@@ -1,4 +1,4 @@
-# Student Management System
+# Student Management System (Java, Java FX, PHP)
 
 Welcome to the Student Management System! This project is built using Java and JavaFX for the frontend and uses XAMPP with PHP for the backend and database management. This document provides a detailed overview of the project, its features, installation steps, and usage instructions.
 
