@@ -26,11 +26,6 @@ Welcome to the Student Management System! This project is built using Java and J
 
 1. **Clone the Repository:**
 
-    ```bash
-    git clone https://github.com/yourusername/student-management-system.git
-    cd student-management-system
-    ```
-
 2. **Set Up XAMPP:**
 
     - Start Apache and MySQL through the XAMPP Control Panel.
